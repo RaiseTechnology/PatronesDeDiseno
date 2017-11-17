@@ -1,5 +1,5 @@
 package Factory;
-
+//Interface factura
 public abstract class Factura {
 
     private int id;

@@ -1,7 +1,7 @@
 package FactoryPizza;
 
 import java.util.ArrayList;
-
+//Clase pizza cambio el codigo
  public class Pizza {
 	String name;
 	String dough;
